@@ -1,12 +1,20 @@
-# Multiple Disease Prediction System
+# MediDoc Predictions and DocAI
 
-Dear network,
 
-I'm glad to share that I have completed an end-to-end machine learning project - A Multiple Disease Prediction System.
+Project Description
+MediDoc Predictions and DocAI is a machine learning-based application designed to predict the likelihood of various diseases based on user-provided medical parameters. It features an interactive chatbot, DocAI, which provides medical tips, wellness advice, and dietary recommendations through a user-friendly interface.
 
-This system is designed to analyze various medical parameters and predict the likelihood of a patient acquiring a particular disease. With this project, my goal is to help healthcare providers identify potential health risks in their patients and take preventative measures to mitigate those risks.
+Features
+Disease prediction using Logistic Regression.
+Interactive chatbot (DocAI) powered by Gemini API.
+Supports multimodal input: text, speech, and image.
+User-friendly interface built with Streamlit.
+Data preprocessing techniques: feature scaling and selection.
+Privacy-focused design without EHR integration.
+Technologies Used
+Programming Language: Python
+Machine Learning: Logistic Regression & SVMs
+Framework: Streamlit
+API: Gemini API for chatbot functionalities
+Libraries: NumPy, pandas, scikit-learn, Streamlit
 
-To build this system, I used a variety of machine learning algorithms, including decision trees, random forests, and logistic regression. I also employed data preprocessing techniques such as feature scaling and feature selection to ensure that the data was clean and ready for analysis.
-Overall, the system achieved a higher accuracy rate. I am thrilled to have built a system that can potentially improve healthcare outcomes for patients.
-
-Any feedback is welcomed, Thank you for checking out my post and I hope you enjoy it!
